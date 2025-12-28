@@ -1,0 +1,17 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Put some pixels in that new tab of yours!",
+   "icons": {
+      "128": "assets/icon-128.png",
+      "16": "assets/icon-16.png",
+      "32": "assets/icon-32.png",
+      "48": "assets/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkKpl/rpmzmT/R9iNphzV0PUyG575Q1XzmO7JUdcU3QEftBObf1PIreYX2+ffd9IgZSqoR2d/1whd22C0nQM7wTlJ7cs6g14oU28RTKHPHqjzGVQUh5kXmbG8hy7bQT+TN9R3LTGjKtknN4a55CS6PXrhzPHIIs+sLrHjk4cKRjz0S37csZYrHM8uWQSKFP9jvRdtGnFpMJJioQ1sHjv0XO/AyQsyduFnDOZSruMYWWLiaIErACIkIy3sk+1Qu+WrwUAIvsgc7UalQIi7G4JDZ7rU7MeQNHUijR8JQz3Dk4UOMO4YAEiPmH2tEqfN+100M3RM/Fi49+3lidILiXDp2QIDAQAB",
+   "manifest_version": 3,
+   "name": "Pixel Tab",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}
