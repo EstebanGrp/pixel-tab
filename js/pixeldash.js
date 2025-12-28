@@ -67,7 +67,7 @@ const nameInput = document.querySelector("#nameInput input");
 // Set the user's name on screen
 const { name: userName } = settings;
 if (userName !== "") {
-  greet.textContent = "Hello, ";
+  greet.textContent = "Hola, ";
   nameButton.textContent = userName;
 }
 
@@ -101,7 +101,7 @@ nameInput.addEventListener("keypress", function (event) {
       );
 
       // Display the user's name
-      greet.textContent = "Hello, ";
+      greet.textContent = "Hola, ";
       nameButton.textContent = newName;
 
       // Hide the input
@@ -122,7 +122,7 @@ nameInput.addEventListener("blur", function () {
     );
 
     // Display the user's name
-    greet.textContent = "Hello, ";
+    greet.textContent = "Hola, ";
     nameButton.textContent = newName;
   }
 
@@ -144,7 +144,7 @@ document.body.addEventListener("click", function () {
       );
 
       // Display the user's name
-      greet.textContent = "Hello, ";
+      greet.textContent = "Hola, ";
       nameButton.textContent = newName;
     }
   }
